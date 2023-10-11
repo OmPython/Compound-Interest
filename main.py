@@ -7,5 +7,4 @@ i = (r/100)/c
 n = (y*c)
 
 ci = p*(((1+i)**n)-1)
-print('Compound Interest = ')
-print(ci)
+print('Compound Interest = ' + str(ci))
